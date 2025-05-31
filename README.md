@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 I completed my Diploma in Computer Engineering from RC Technical Institute, Ahmedabad (GTU).<br>📘 After graduation, I focused on preparing for my D2D entrance exam, and now I’m currently diving deep into Java programming and strengthening my core concepts in Object-Oriented Programming (OOP).<br>📱 I also have experience developing Android applications, and my academic project includes a functional Quiz App built using Android Studio with core logic and dynamic features.
+Hi, I’m Dhvanit Jethva — a passionate learner and aspiring software developer based in Ahmedabad, Gujarat.<br><br>🎓 I completed my Diploma in Computer Engineering from RC Technical Institute, Ahmedabad (GTU).<br>📘 After graduation, I focused on preparing for my D2D entrance exam, and now I’m currently diving deep into Java programming and strengthening my core concepts in Object-Oriented Programming (OOP).<br>📱 I also have experience developing Android applications, and my academic project includes a functional Quiz App built using Android Studio with core logic and dynamic features.<br><br>🛠️ I'm familiar with:<br><br>Java, PHP<br><br>MySQL, phpMyAdmin<br><br>Android Studio, Git, and GitHub<br><br>
 
 
 ## 🌐 Socials:
