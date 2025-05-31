@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Core Java**
 
-- 💬 Ask me about **🎓 I completed my Diploma in Computer Engineering from RC Technical Institute, Ahmedabad (GTU). 📘 After graduation, I focused on preparing for my D2D entrance exam, and now I’m currently diving deep into Java programming and strengthening my core concepts in Object-Oriented Programming (OOP). 📱 I also have experience developing Android applications, and my academic project includes a functional Quiz App built using Android Studio with core logic and dynamic features.**
+- 💬 Ask me about ** I completed my Diploma in Computer Engineering from RC Technical Institute, Ahmedabad (GTU). 📘 After graduation, I focused on preparing for my D2D entrance exam, and now I’m currently diving deep into Java programming and strengthening my core concepts in Object-Oriented Programming (OOP). 📱 I also have experience developing Android applications, and my academic project includes a functional Quiz App built using Android Studio with core logic and dynamic features.**
 
 - 📫 How to reach me **idhvanitjethva@gmail.com**
 
